@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🌐 Atualmente estou estudando HTML5 e CSS3
+- 🌐 Atualmente estou estudando Java, com aplicações Mobile
 
 <div align="center">
   <a href="https://github.com/znyller">
