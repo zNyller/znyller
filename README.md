@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🌐 I'm currently studying Java, with Mobile applications
+- 🌐 I'm currently studying Java, with Mobile applications |
      Atualmente estudando Java, com aplicações Mobile
 
 <div align="center">
