@@ -1,6 +1,7 @@
 ### Hello World 👋
 
-- 🌐 Atualmente estou estudando Java, com aplicações Mobile
+- 🌐 I'm currently studying Java, with Mobile applications
+     Atualmente estudando Java, com aplicações Mobile
 
 <div align="center">
   <a href="https://github.com/znyller">
