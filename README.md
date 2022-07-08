@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-- 🌐 I'm currently studying Java, with Mobile applications |
-     Atualmente estudando Java, com aplicações Mobile
+- 🌐 I'm currently studying Kotlin & Java, with Mobile applications |
+     Atualmente estudando Kotlin & Java, com aplicações Mobile
 
 <div align="center">
   <a href="https://github.com/znyller">
@@ -10,6 +10,7 @@
 </div>
 
   <div style="display: inline_block"><br>
+  <img align="center" alt="Nyller-Kotlin" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg>
   <img align="center" alt="Nyller-Java" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg>
   <img align="center" alt="Nyller-Android" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg>
   <img align="center" alt="Nyller-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
