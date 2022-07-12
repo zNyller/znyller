@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-- 🌐 I'm currently studying Kotlin with Mobile applications |
-     Atualmente estudando Kotlin com aplicações Mobile
+- 🌐 I'm currently studying Kotlin with Android applications |
+     Atualmente estudando Kotlin com aplicações Android Nativo
 
 <div align="center">
   <a href="https://github.com/znyller">
