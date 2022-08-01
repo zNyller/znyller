@@ -13,8 +13,6 @@
   <img align="center" alt="Nyller-Java" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg>
   <img align="center" alt="Nyller-Android" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg>
   <img align="center" alt="Nyller-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nyller-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nyller-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
 </div>
 
