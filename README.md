@@ -1,12 +1,8 @@
 ### Hello World 👋
 
 - 📚 Atualmente estudando Python com aplicações em projetos pessoais.
-- 🌐 I'm currently studying Python with side projects.
+- 🌐 I'm currently studying Python with applications in personal projects.
      
-<div align="center">
-  <a href="https://github.com/znyller">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znyller&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Nyller-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
